@@ -1,0 +1,10 @@
+button{
+    background-color: darkcyan;
+    color: chocolate;
+}
+button:hover{
+    background-color: aqua;
+}
+button:active{
+    background-color: darkseagreen;
+}

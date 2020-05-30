@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-family: fantasy;
+    font-size: x-large;
+}
+.azul{
+    color: rgb(93, 127, 192);
+    font-style: oblique;
+    font-size: large;
+}
+#unico{
+    color: brown;
+    font-style: oblique;
+    font-size: medium;
+}
